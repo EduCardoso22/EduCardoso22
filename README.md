@@ -15,15 +15,15 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hyriuky&show_icons=true&hide_border=true&title_color=0074FF&icon_color=0074FF&text_color=FFFFFF&bg_color=0d1117" alt="Eduardo Cardoso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyriuky&layout=compact&hide_border=true&title_color=0074FF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduCardoso22&show_icons=true&hide_border=true&title_color=0074FF&icon_color=0074FF&text_color=FFFFFF&bg_color=0d1117" alt="Eduardo Cardoso github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCardoso22&layout=compact&hide_border=true&title_color=0074FF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyriuky&theme=github_dark" alt="Profile Summary"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduCardoso22&theme=github_dark" alt="Profile Summary"/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hyriuky&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EduCardoso22&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
