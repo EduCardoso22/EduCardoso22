@@ -47,7 +47,7 @@
 <p>If you want to get in touch with me, you can go to the links below </p>
 <div align="center">
 <br>
-  <a href="https://instagram.com/cardoso0_22" target="_blank">
+  <a href="https://instagram.com/edu0_22_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/eduardo-cardoso-308a13216/" target="_blank">
