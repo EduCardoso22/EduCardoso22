@@ -50,9 +50,13 @@
 
 <br/>
 
-<div style="display:flex; justify-content:center" align="center">
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31ble3ss5wuc5q4s4max6aoxpjne"/>
+<div align="center">
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31ble3ss5wuc5q4s4max6aoxpjne&count=5&unique=true)
+
 </div>
+
+<br/>
 
 <br/>
 
